@@ -75,73 +75,73 @@ Si vous avez besoin de plus d'aide vous pouvez consulter notre documentation [ic
 - **Servez vous du bot comme votre assistant!** <br /> _Commandes:_ `autorole`, `farewell`, `welcome`, `counters`, `flag translation`, `reaction roles`, ...
 - **Personnalisez votre bot pour chaque serveur.** <br /> _Commandes:_ `setprefix`, `maxwarns`, `modlog`...
 
-### 💁 **Information Gathering:**
+### 💁 **Collecte d'informations:**
 
-- **User Context Interactions**
-- **Advanced Information** Get deep information about a user, channel, role, etc.
+- **Interactions contextuelles utilisateur**
+- **Informations Avancées** Obtenez des informations détaillées sur un utilisateur, un canal, un rôle, etc..
 
 ### 🎵 **Musique:**
 
-- **LossLess Music!** Enjoy high quality lossless music
-- **Multi-Platform** Play music from YouTube, SoundCloud, Spotify, and more
-- **Filters** Apply filters to your music and spice it up
+- **Qualité LossLess !** Profitez d'une musique sans perte de haute qualité
+- **Multi Platforme** Écoutez de la musique depuis YouTube, SoundCloud, Spotify et plus encore
+- **Filtres** Appliquez des filtres à votre musique et pimentez-la
 
 ### 🎉 **Giveaways:**
 
-- **Easy to use** Create giveaways with ease
-- **Role specific** giveaways
-- **Customizable** Customize the giveaway to your liking
-- **Limitless** Create unlimited giveaways
+- **Simple d'utilisation** Créez facilement des cadeaux
+- **Role spécifique**
+- **Personalisable** Personnalisez le cadeau à votre guise
+- **Illimité** Créez des cadeaux en illimités
 
-### 🫂 **Social Content:**
+### 🫂 **Contenu social:**
 
-- **You Have A CV In Each Server-Specific Bot!** <br /> _Commands:_ `rep`, `rep view`...
-- **Do You Love Someone?** <br /> _Commands:_ `rep give`...
+- **Vous avez un CV dans chaque bot spécifique au serveur!** <br /> _Commandes:_ `rep`, `rep view`...
+- **Aimez-vous quelqu'un?** <br /> _Commandes:_ `rep give`...
 
-### 🎟 **Ticket System:**
+### 🎟 **Système de tickets:**
 
-- **Make Supporting Members A Breeze With Tickets!** <br/> Highly customizable ticket system with staff roles
-- **Multiple Categories** <br/> Don't Want The Tickets To Be Everywhere? Categorize them using select menus
+- **Facilitez le soutien aux membres avec des billets !** <br/> Système de tickets hautement personnalisable avec rôles du personnel
+- **Plusieurs catégories** <br/> Vous ne voulez pas que les billets soient partout ? Classez-les à l'aide de menus de sélection
 
-### 📉 **Stats Tracking:**
+### 📉 **Suivi des statistiques:**
 
-- **Levelling** Track your server's activity with a level system
-- **Leaderboards** See who is the most active user in your server
-- **Customizable System** Configure the levelup message, rank cards to your liking
+- **Niveau** Suivez l'activité de votre serveur avec un système de niveaux
+- **Classements** Découvrez qui est l'utilisateur le plus actif de votre serveur
+- **Système personnalisable** Configurez le message de mise à niveau et les cartes de classement à votre guise
 
 ### 🙋‍♂️ **Suggestions:**
 
-- **Get Suggestions From Server Members To Help Your Server Become The Best!** <br /> _Commands:_ `suggest`, `suggestion`...
-- **Accept Or Decline The Suggestions And Customize Them To The Max!** <br /> _Commands:_ `suggestion status`, `suggestion channel`, `suggestion appch`, `suggestion rejch`, `suggestion approve`, `suggestion staffadd`, `suggestion staffremove`...
+- **Obtenez des suggestions des membres du serveur pour aider votre serveur à devenir le meilleur !** <br /> _Commandes:_ `suggest`, `suggestion`...
+- **Acceptez ou refusez les suggestions et personnalisez-les au maximum !** <br /> _Commandes:_ `suggestion status`, `suggestion channel`, `suggestion appch`, `suggestion rejch`, `suggestion approve`, `suggestion staffadd`, `suggestion staffremove`...
 
-### ⚒️ **Utility Commands:**
+### ⚒️ **Commandes Utilitaires:**
 
-- **Need Some Help With Something? Use The Utility Commands To Find Out The Answer To It** <br /> _Commands:_ `bigemoji`, `covid`, `pokedex`, `urban`, `weather`, ...
-- **Need Help With Some More Stuff?** <br /> _Commands:_ `help`, `proxies`, `translate`, `paste`, ...
+- **Besoin d'aide pour quelque chose ? Utilisez les commandes de l'utilitaire pour trouver la réponse** <br /> _Commandes:_ `bigemoji`, `covid`, `pokedex`, `urban`, `weather`, ...
+- **Besoin d'aide pour d'autres choses ?** <br /> _Commandes:_ `help`, `proxies`, `translate`, `paste`, ...
 
-### ⭐ **Anime Content:**
+### ⭐ **Contenu animé :**
 
-- **Love Anime? Express You Love To Someone Using The React Commands** <br /> _Commands:_ `react`, `hug`, `kiss`, `cuddle`, `pat`, `poke`, `slap`, `smug`, ...
+- **Vous aimez les dessins animés ? Exprimez votre amour à quelqu'un en utilisant les commandes React** <br /> _Commandes:_ `react`, `hug`, `kiss`, `cuddle`, `pat`, `poke`, `slap`, `smug`, ...
 
-### 🪙 **Economy System:**
+### 🪙 **Système d'économie:**
 
-- **Want To Become Richest? Use The Economy Commands!** <br /> _Commands:_ `bank`, `daily`, `beg`, `gamble`...
-- **Give People Money, Check Your Balance, Or Just Flex!** <br /> _Commands:_ `bank balance`, `bank deposit`, `bank withdraw`, `bank transfer`, ...
+- **Vous voulez devenir le plus riche ? Utilisez les commandes économiques !** <br /> _Commandse:_ `bank`, `daily`, `beg`, `gamble`...
+- **Donnez de l'argent aux gens, vérifiez votre solde ou faites simplement preuve de flexibilité !** <br /> _Commands:_ `bank balance`, `bank deposit`, `bank withdraw`, `bank transfer`, ...
 
-### 😁 **Fun Commands:**
+### 😁 **Commandes FUN:**
 
-- **Have Some Fun In Your Server!** <br /> _Commands:_ `animal`, `facts`, `meme`, `flip`, ...
-- **Play Games And Enjoy Yourself** <br /> _Commands:_ `snake`, `together`, `flip coin`, `flip text`, ...
+- **Amusez-vous sur votre serveur !** <br /> _Commandes:_ `animal`, `facts`, `meme`, `flip`, ...
+- **Jouez à des jeux et amusez-vous** <br /> _Commands:_ `snake`, `together`, `flip coin`, `flip text`, ...
 
-### 📨 **Invite Tracking:**
+### 📨 **Suivi des invitations:**
 
-- **Track who has been inviting people to your server!**
-- **Invite Ranks!** Inviter can get awesome rewards and be recognised
-- **Configure these settings and customize them to your liking!** <br /> _Commands:_ `resetinvites`, `addinvites`, `invitesimport`, `inviterank`...
+- **Suivez qui a invité des personnes sur votre serveur !**
+- **Invitez les classements !** L'invitant peut obtenir des récompenses impressionnantes et être reconnu
+- **Configurez ces paramètres et personnalisez-les à votre guise !** <br /> _Commandes:_ `resetinvites`, `addinvites`, `invitesimport`, `inviterank`...
 
-### 📷 **Image Manipulation:**
+### 📷 **Manipulation d'image:**
 
-- **Customize other peoples avatars** <br /> _Commands:_ `blur`, `greyscale`, `invert`, `pixelate`, `blur`, `sepia`, `sharpen`, `ad`, `affect`, `beautiful`, `color`...
-- **Make some images by yourself or make some art** <br /> _Commands:_ `bobross`, `confusedstonk`, `delete`, `facepalm`, ` hitler`, `jail`, `jokeoverhead`, `karaba`, `mms`, `notstonk`, `poutine`, `rainbow`, `rip`, ` shit`, `stonk`, `tatoo`, `thomas`, `trash`, `wanted`, `wasted`, ...
+- **Personnalisez les avatars des autres** <br /> _Commandes:_ `blur`, `greyscale`, `invert`, `pixelate`, `blur`, `sepia`, `sharpen`, `ad`, `affect`, `beautiful`, `color`...
+- **Faites des images par vous-même ou créez de l'art** <br /> _Commandes:_ `bobross`, `confusedstonk`, `delete`, `facepalm`, ` hitler`, `jail`, `jokeoverhead`, `karaba`, `mms`, `notstonk`, `poutine`, `rainbow`, `rip`, ` shit`, `stonk`, `tatoo`, `thomas`, `trash`, `wanted`, `wasted`, ...
 
 <br>
