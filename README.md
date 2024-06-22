@@ -11,35 +11,31 @@
 <br>
 
 <p align="center">
-  <a href="#-resource-links">Lien des ressources</a>
+  <a href="#-liens-utiles">Lien des ressources</a>
   •
-  <a href="#-prerequisites">Prérequis</a>
+  <a href="#-prerequisit">Prérequis</a>
   •
-  <a href="#-getting-started">Pour Commencer</a>
+  <a href="#-commencer">Pour Commencer</a>
   •
-  <a href="#-features">Features</a>
-  •
-  <a href="#-contributing">Contributeurs</a>
+  <a href="#-features">Fonctionalités</a>
 </p>
 
 <br>
 
-## 🔗 Resource Links
+## 🔗 Liens Utiles
 
-- 🤖 Bot de démo: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
-- 📂 Documentation URL: [Visit Here](https://docs.strangebot.xyz)
+- 🤖 Bot de démo: [Ajouter a votre serveur](https://discord.com/oauth2/authorize?client_id=1229810158645809253&permissions=8&integration_type=0&scope=bot+applications.commands)
 - 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
 
-## 📦 Prerequisites
+## 📦 Prerequis
 
-- [Node.js](https://nodejs.org/en/) v16.11.0 or higher
+- [Node.js](https://nodejs.org/en/) v16.11.0 ou plus récent
 - [Git](https://git-scm.com/downloads)
 - [MongoDB](https://www.mongodb.com)
 
-## 🚀 Getting Started
+## 🚀 Commencer
 
-- Open the terminal and run the following commands
+- Ouvrez le terminal et éxécutez ces commandes
 
 ```
 git clone https://github.com/saiteja-madha/discord-js-bot.git
@@ -47,44 +43,44 @@ cd discord-js-bot
 npm install
 ```
 
-- Wait for all the dependencies to be installed
-- Rename `.env.example` to `.env` and fill the values
-- Optionally edit `config.js`
-- Type `npm run start` to start the bot
+- Patientez pendant que les dépendances s'installent
+- Rennomez `.env.example` en `.env` et modifiez les valeurs du fichier
+- Modifiez les valeurs de `config.js`
+- Tapez `npm run start` pour démmarer le bot
 
-If you need any additional help, make sure to read our guides [here](docs/additional/installation.md)
+Si vous avez besoin de plus d'aide vous pouvez consulter notre documentation [ici](docs/additional/installation.md)
 
 <br>
 
-<h1 align="center"> ✨ Features ✨ </h1>
+<h1 align="center"> ✨ Fonctionalités ✨ </h1>
 
-### 📡 **Advanced Dashboard**
+### 📡 **DashBord Fonctionel**
 
-- Manage your servers and make your server-specific settings!
-- Make custom adjustments easy!
+- Gérer et paramétrez des fonctions dédiées à chaques serveurs !
+- Effectuez des modifications rapidement et facilement !
 
-### 🛑 **Powerful Moderation:**
+### 🛑 **Une modération active:**
 
-- **Moderation Commands.** <br /> _Commands:_ `ban`, `unban`, `timeout`, `voice moderation`, `deafen`, `move`, `warn`, `setnick`, ...
-- **Multi-Function Purge Commands.** <br /> _Commands:_ `purge`, `purge attach`, `purge bots`, `purge links`, `purge token`, `purge user`, ...
+- **Commandes de modération.** <br /> _Commandes:_ `ban`, `unban`, `timeout`, `voice moderation`, `deafen`, `move`, `warn`, `setnick`, ...
+- **Plusieurs commandes de purge** <br /> _Commandes:_ `purge`, `purge attach`, `purge bots`, `purge links`, `purge token`, `purge user`, ...
 
-### 🤖 **Auto Moderation:**
+### 🤖 **Auto Modération:**
 
-- **Anti system** <br /> _Commands:_ `anti ghostping`, `anti spam`, `anti massmention`, ...
-- **Auto Delete system** <br /> _Commands:_ `autodelete attachments`, `autodelete invites`, `autodelete links`, `autodelete maxlines`, ...
-- **AutoMod system** <br /> _Commands:_ `automod status`, `automod strikes`, `automod action`, `automod debug`, `automod whitelist`, ...
+- **Système de détéction** <br /> _Commandes:_ `anti ghostping`, `anti spam`, `anti massmention`, ...
+- **Système d'auto suppression** <br /> _Commandes:_ `autodelete attachments`, `autodelete invites`, `autodelete links`, `autodelete maxlines`, ...
+- **Système d'auto modération** <br /> _Commandes:_ `automod status`, `automod strikes`, `automod action`, `automod debug`, `automod whitelist`, ...
 
-### ⚙️ **Admin Configuration:**
+### ⚙️ **Configuration Admin:**
 
-- **Let a bot be the server's assistant!** <br /> _Commands:_ `autorole`, `farewell`, `welcome`, `counters`, `flag translation`, `reaction roles`, ...
-- **Make custom settings for your own server.** <br /> _Commands:_ `setprefix`, `maxwarns`, `modlog`...
+- **Servez vous du bot comme votre assistant!** <br /> _Commandes:_ `autorole`, `farewell`, `welcome`, `counters`, `flag translation`, `reaction roles`, ...
+- **Personnalisez votre bot pour chaque serveur.** <br /> _Commandes:_ `setprefix`, `maxwarns`, `modlog`...
 
 ### 💁 **Information Gathering:**
 
 - **User Context Interactions**
 - **Advanced Information** Get deep information about a user, channel, role, etc.
 
-### 🎵 **Music:**
+### 🎵 **Musique:**
 
 - **LossLess Music!** Enjoy high quality lossless music
 - **Multi-Platform** Play music from YouTube, SoundCloud, Spotify, and more
@@ -149,9 +145,3 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 - **Make some images by yourself or make some art** <br /> _Commands:_ `bobross`, `confusedstonk`, `delete`, `facepalm`, ` hitler`, `jail`, `jokeoverhead`, `karaba`, `mms`, `notstonk`, `poutine`, `rainbow`, `rip`, ` shit`, `stonk`, `tatoo`, `thomas`, `trash`, `wanted`, `wasted`, ...
 
 <br>
-
-<h1 align="center"> 🤝 Contributing 🤝 </h1>
-
-- Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-- Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
