@@ -1,0 +1,2 @@
+{"level":30,"time":1716907957908,"pid":35,"hostname":"f6af1c7b-7980-45b8-b40b-aff131c6921a","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":50,"time":1716907957911,"pid":35,"hostname":"f6af1c7b-7980-45b8-b40b-aff131c6921a","msg":"env : BOT_TOKEN ne peut pas être vide"}

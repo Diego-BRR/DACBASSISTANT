@@ -1,0 +1,347 @@
+{"level":30,"time":1705033018551,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1705033018555,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1705033018555,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1705033018770,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading commands..."}
+{"level":20,"time":1705033020452,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1705033020454,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1705033020455,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1705033020537,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1705033020540,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1705033020543,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1705033020547,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1705033020549,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1705033020573,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1705033020575,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1705033020577,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1705033020633,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1705033020636,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1705033020640,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033020641,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1705033020643,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1705033020645,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1705033020646,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1705033020648,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1705033020650,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1705033020651,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1705033020653,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033020660,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1705033020662,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1705033020665,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1705033020666,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1705033020668,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1705033020669,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1705033020670,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1705033020671,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1705033020673,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1705033020675,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1705033020677,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1705033020680,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1705033020684,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1705033020735,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1705033020745,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1705033020749,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1705033020751,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1705033020754,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1705033020755,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1705033020757,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1705033020759,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1705033020760,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1705033020762,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1705033020763,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1705033020765,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1705033020766,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1705033020767,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1705033020768,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1705033020770,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1705033020771,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1705033020773,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1705033020878,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 79 commands"}
+{"level":30,"time":1705033020878,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1705033020879,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading contexts..."}
+{"level":30,"time":1705033020935,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1705033020935,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1705033020935,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading events..."}
+{"level":30,"time":1705033021238,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1705033022060,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1705033022133,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Launching dashboard"}
+{"level":30,"time":1705033022946,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1705033022954,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"MongoParseError","message":"Protocol and host list are required in \"mongodb+srv://heimdallhost:ADN3992@@cluster0.vdbd8cx.mongodb.net/?retryWrites=true&w=majority\"","stack":"MongoParseError: Protocol and host list are required in \"mongodb+srv://heimdallhost:ADN3992@@cluster0.vdbd8cx.mongodb.net/?retryWrites=true&w=majority\"\n    at new ConnectionString (/home/container/node_modules/mongodb-connection-string-url/lib/index.js:95:23)\n    at parseOptions (/home/container/node_modules/mongodb/lib/connection_string.js:191:17)\n    at new MongoClient (/home/container/node_modules/mongodb/lib/mongo_client.js:48:63)\n    at NativeConnection.createClient (/home/container/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:288:14)\n    at NativeConnection.openUri (/home/container/node_modules/mongoose/lib/connection.js:759:34)\n    at Mongoose.connect (/home/container/node_modules/mongoose/lib/index.js:404:15)\n    at Object.initializeMongoose (/home/container/src/database/mongoose.js:11:22)\n    at module.exports.launch (/home/container/dashboard/app.js:24:29)\n    at /home/container/bot.js:56:19\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Mongoose: Failed to connect to database: Protocol and host list are required in \"mongodb+srv://heimdallhost:ADN3992@@cluster0.vdbd8cx.mongodb.net/?retryWrites=true&w=majority\""}
+{"level":30,"time":1705033051266,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1705033051269,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1705033051269,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1705033051480,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading commands..."}
+{"level":20,"time":1705033053861,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1705033053863,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1705033053934,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1705033053951,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1705033053953,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1705033053957,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1705033053961,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1705033053964,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1705033054037,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1705033054038,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1705033054041,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1705033054045,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1705033054048,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1705033054052,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033054054,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1705033054056,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1705033054057,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1705033054059,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1705033054061,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1705033054063,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1705033054064,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1705033054066,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033054074,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1705033054076,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1705033054079,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1705033054080,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1705033054135,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1705033054136,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1705033054138,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1705033054139,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1705033054140,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1705033054143,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1705033054146,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1705033054148,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1705033054152,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1705033054155,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1705033054166,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1705033054170,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1705033054172,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1705033054175,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1705033054177,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1705033054179,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1705033054181,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1705033054182,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1705033054184,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1705033054234,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1705033054235,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1705033054237,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1705033054238,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1705033054240,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1705033054242,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1705033054243,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1705033054245,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1705033054342,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 79 commands"}
+{"level":30,"time":1705033054342,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1705033054343,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading contexts..."}
+{"level":30,"time":1705033054346,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1705033054346,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1705033054346,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading events..."}
+{"level":30,"time":1705033054733,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1705033055639,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1705033055640,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Launching dashboard"}
+{"level":30,"time":1705033056949,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1705033057033,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"MongoParseError","message":"Protocol and host list are required in \"mongodb+srv://heimdallhost:ADN3992@@cluster0.vdbd8cx.mongodb.net/?retryWrites=true&w=majority\"","stack":"MongoParseError: Protocol and host list are required in \"mongodb+srv://heimdallhost:ADN3992@@cluster0.vdbd8cx.mongodb.net/?retryWrites=true&w=majority\"\n    at new ConnectionString (/home/container/node_modules/mongodb-connection-string-url/lib/index.js:95:23)\n    at parseOptions (/home/container/node_modules/mongodb/lib/connection_string.js:191:17)\n    at new MongoClient (/home/container/node_modules/mongodb/lib/mongo_client.js:48:63)\n    at NativeConnection.createClient (/home/container/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:288:14)\n    at NativeConnection.openUri (/home/container/node_modules/mongoose/lib/connection.js:759:34)\n    at Mongoose.connect (/home/container/node_modules/mongoose/lib/index.js:404:15)\n    at Object.initializeMongoose (/home/container/src/database/mongoose.js:11:22)\n    at module.exports.launch (/home/container/dashboard/app.js:24:29)\n    at /home/container/bot.js:56:19\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Mongoose: Failed to connect to database: Protocol and host list are required in \"mongodb+srv://heimdallhost:ADN3992@@cluster0.vdbd8cx.mongodb.net/?retryWrites=true&w=majority\""}
+{"level":30,"time":1705033231378,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1705033231382,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1705033231382,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1705033231673,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading commands..."}
+{"level":20,"time":1705033233455,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1705033233455,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1705033233456,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1705033233550,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1705033233553,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1705033233558,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1705033233635,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1705033233638,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1705033233665,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1705033233668,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1705033233736,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1705033233740,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1705033233742,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1705033233746,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033233747,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1705033233749,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1705033233751,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1705033233752,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1705033233754,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1705033233756,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1705033233758,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1705033233759,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033233767,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1705033233770,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1705033233772,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1705033233774,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1705033233775,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1705033233776,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1705033233778,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1705033233779,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1705033233780,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1705033233836,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1705033233839,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1705033233841,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1705033233845,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1705033233848,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1705033233858,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1705033233862,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1705033233864,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1705033233869,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1705033233874,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1705033233876,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1705033233878,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1705033233879,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1705033233881,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1705033233882,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1705033233884,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1705033233933,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1705033233934,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1705033233936,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1705033233938,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1705033233939,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1705033233940,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1705033234034,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 79 commands"}
+{"level":30,"time":1705033234034,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1705033234035,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading contexts..."}
+{"level":30,"time":1705033234037,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1705033234038,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1705033234038,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading events..."}
+{"level":30,"time":1705033234257,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1705033235487,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1705033235488,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Launching dashboard"}
+{"level":30,"time":1705033236075,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1705033266364,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"MongooseServerSelectionError","message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (/home/container/node_modules/mongoose/lib/connection.js:809:11)\n    at NativeConnection.openUri (/home/container/node_modules/mongoose/lib/connection.js:784:11)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Object.initializeMongoose (/home/container/src/database/mongoose.js:11:7)\n    at async module.exports.launch (/home/container/dashboard/app.js:24:14)\n    at async /home/container/bot.js:56:13","reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-13v8ho-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}},"msg":"Mongoose: Failed to connect to database: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1705033298957,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1705033298961,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1705033298961,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1705033299161,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading commands..."}
+{"level":20,"time":1705033301256,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1705033301258,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1705033301260,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1705033301350,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1705033301354,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1705033301359,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1705033301365,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1705033301369,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1705033301456,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1705033301458,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1705033301462,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1705033301468,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1705033301470,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1705033301475,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033301477,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1705033301480,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1705033301534,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1705033301536,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1705033301539,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1705033301541,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1705033301543,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1705033301545,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033301554,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1705033301557,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1705033301561,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1705033301562,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1705033301564,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1705033301565,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1705033301567,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1705033301568,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1705033301570,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1705033301573,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1705033301576,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1705033301578,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1705033301583,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1705033301635,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1705033301646,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1705033301650,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1705033301652,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1705033301655,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1705033301657,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1705033301659,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1705033301661,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1705033301662,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1705033301664,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1705033301666,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1705033301667,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1705033301668,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1705033301669,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1705033301671,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1705033301673,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1705033301674,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1705033301676,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1705033301776,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 79 commands"}
+{"level":30,"time":1705033301833,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1705033301833,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading contexts..."}
+{"level":30,"time":1705033301837,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1705033301837,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1705033301837,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading events..."}
+{"level":30,"time":1705033302162,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1705033303238,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1705033303238,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Launching dashboard"}
+{"level":30,"time":1705033304335,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Connecting to MongoDb..."}
+{"level":50,"time":1705033334502,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"MongooseServerSelectionError","message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (/home/container/node_modules/mongoose/lib/connection.js:809:11)\n    at NativeConnection.openUri (/home/container/node_modules/mongoose/lib/connection.js:784:11)\n    at async Object.initializeMongoose (/home/container/src/database/mongoose.js:11:7)\n    at async module.exports.launch (/home/container/dashboard/app.js:24:14)\n    at async /home/container/bot.js:56:13","reason":{"type":"ReplicaSetNoPrimary","servers":{},"stale":false,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"setName":"atlas-13v8ho-shard-0","maxElectionId":null,"maxSetVersion":null,"commonWireVersion":0,"logicalSessionTimeoutMinutes":null}},"msg":"Mongoose: Failed to connect to database: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/"}
+{"level":30,"time":1705033636850,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1705033636854,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1705033636854,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1705033637070,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading commands..."}
+{"level":20,"time":1705033639539,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1705033639541,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1705033639543,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1705033639559,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1705033639562,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1705033639566,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1705033639570,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1705033639573,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1705033639654,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1705033639656,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1705033639659,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1705033639664,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1705033639668,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1705033639673,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033639675,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1705033639678,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1705033639680,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1705033639681,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1705033639683,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1705033639733,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1705033639735,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1705033639737,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1705033639747,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1705033639750,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1705033639752,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1705033639754,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1705033639755,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1705033639756,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1705033639758,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1705033639759,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1705033639761,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1705033639765,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1705033639767,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1705033639770,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1705033639774,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1705033639776,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1705033639839,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1705033639843,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1705033639844,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1705033639847,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1705033639849,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1705033639851,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1705033639852,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1705033639854,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1705033639855,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1705033639857,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1705033639858,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1705033639859,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1705033639861,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1705033639862,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1705033639864,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1705033639865,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1705033639867,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1705033639967,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 79 commands"}
+{"level":30,"time":1705033639967,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1705033639968,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading contexts..."}
+{"level":30,"time":1705033640036,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1705033640036,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1705033640036,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading events..."}
+{"level":30,"time":1705033640334,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1705033641236,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1705033641236,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Launching dashboard"}
+{"level":30,"time":1705033642566,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1705033643499,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1705033643664,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1705033662054,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Logged in as HeimdallCorp#0881! (1164402510451187793)"}
+{"level":30,"time":1705033662054,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1705033662598,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1705033663184,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Successfully registered interactions"}
+{"level":30,"time":1705256073751,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Guild Joined: Mr_ShiroX Members: 24"}
+{"level":50,"time":1705256131560,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"DiscordjsError","message":"The reply to this interaction has not been sent or deferred.","stack":"Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.\n    at ChatInputCommandInteraction.followUp (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:184:64)\n    at Object.handleSlashCommand (/home/container/src/handlers/command.js:142:25)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:18:5)","code":"InteractionNotReplied"},"msg":"Client Error: The reply to this interaction has not been sent or deferred."}

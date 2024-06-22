@@ -1,0 +1,137 @@
+{"level":30,"time":1702272184933,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Validating config file and environment variables"}
+{"level":40,"time":1702272184934,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1702272184935,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1702272185161,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loading commands..."}
+{"level":20,"time":1702272187566,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1702272187568,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1702272187569,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1702272187574,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1702272187576,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1702272187578,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1702272187580,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1702272187582,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1702272187601,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1702272187601,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1702272187603,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1702272187605,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1702272187606,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1702272187608,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1702272187608,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1702272187609,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1702272187610,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1702272187611,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1702272187612,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1702272187612,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1702272187613,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1702272187614,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1702272187619,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1702272187621,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1702272187623,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1702272187624,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1702272187625,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1702272187625,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1702272187626,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1702272187627,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1702272187628,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1702272187629,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1702272187630,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1702272187632,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1702272187634,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1702272187635,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1702272187666,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1702272187667,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1702272187668,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1702272187738,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 93 commands"}
+{"level":30,"time":1702272187738,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 74 slash commands"}
+{"level":30,"time":1702272187738,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loading contexts..."}
+{"level":30,"time":1702272187740,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1702272187740,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1702272187740,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loading events..."}
+{"level":30,"time":1702272187788,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1702272188027,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1702272188027,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Launching dashboard"}
+{"level":30,"time":1702272189564,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1702272191831,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1702272191965,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1702272192851,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Logged in as HeimdallCorp#0881! (1164402510451187793)"}
+{"level":20,"time":1702272192852,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1702272192853,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Music Manager initialized"}
+{"level":30,"time":1702272192853,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1702272192873,"pid":7280,"hostname":"DESKTOP-U62FJDG","err":{"type":"Error","message":"AggregateError","stack":"Error: AggregateError\n    at Connection._onerror (C:\\Users\\Noah\\Desktop\\discord-js-bot\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\Noah\\Desktop\\discord-js-bot\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\Noah\\Desktop\\discord-js-bot\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:514:28)\n    at emitErrorAndClose (C:\\Users\\Noah\\Desktop\\discord-js-bot\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\Noah\\Desktop\\discord-js-bot\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:514:28)\n    at Socket.socketErrorListener (node:_http_client:495:9)\n    at Socket.emit (node:events:514:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"Local Node\" encountered an error: AggregateError.: AggregateError"}
+{"level":30,"time":1702272192874,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1702272192874,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1702272193092,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1702272193346,"pid":7280,"hostname":"DESKTOP-U62FJDG","msg":"Successfully registered interactions"}
+{"level":30,"time":1702304184716,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1702304184730,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1702304184730,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1702304185044,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loading commands..."}
+{"level":20,"time":1702304187453,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1702304187454,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1702304187454,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1702304187460,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1702304187461,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1702304187463,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1702304187465,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1702304187466,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1702304187478,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1702304187478,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1702304187480,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1702304187482,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1702304187483,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1702304187485,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1702304187486,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1702304187487,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1702304187488,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1702304187489,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1702304187490,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1702304187490,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1702304187491,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1702304187492,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1702304187497,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1702304187498,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1702304187500,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1702304187500,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1702304187502,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1702304187503,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1702304187504,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1702304187505,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1702304187506,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1702304187508,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1702304187509,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1702304187510,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1702304187513,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1702304187514,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1702304187520,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1702304187521,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1702304187522,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1702304187524,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1702304187525,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1702304187526,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1702304187527,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1702304187528,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1702304187529,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1702304187530,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1702304187531,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1702304187532,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1702304187533,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1702304187534,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1702304187535,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1702304187536,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1702304187538,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1702304187568,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 79 commands"}
+{"level":30,"time":1702304187568,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 60 slash commands"}
+{"level":30,"time":1702304187569,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loading contexts..."}
+{"level":30,"time":1702304187571,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1702304187571,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1702304187571,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loading events..."}
+{"level":30,"time":1702304187612,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1702304187850,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1702304187851,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Launching dashboard"}
+{"level":30,"time":1702304188270,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1702304189517,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1702304189584,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1702304190336,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Logged in as HeimdallCorp#0881! (1164402510451187793)"}
+{"level":30,"time":1702304190336,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1702304190458,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1702304190755,"pid":5392,"hostname":"DESKTOP-U62FJDG","msg":"Successfully registered interactions"}

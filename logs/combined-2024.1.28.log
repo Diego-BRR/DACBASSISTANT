@@ -1,0 +1,67 @@
+{"level":30,"time":1706418972087,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1706418972091,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1706418972091,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1706418972373,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading commands..."}
+{"level":20,"time":1706418974753,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1706418974756,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1706418974758,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1706418974773,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1706418974831,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1706418974835,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1706418974841,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1706418974844,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1706418974869,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1706418974872,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1706418974875,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1706418974879,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1706418974882,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1706418974887,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command addinvites. Category INVITE is disabled"}
+{"level":20,"time":1706418974931,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitecodes. Category INVITE is disabled"}
+{"level":20,"time":1706418974933,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviter. Category INVITE is disabled"}
+{"level":20,"time":1706418974936,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviterank. Category INVITE is disabled"}
+{"level":20,"time":1706418974937,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command inviteranks. Category INVITE is disabled"}
+{"level":20,"time":1706418974940,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invites. Category INVITE is disabled"}
+{"level":20,"time":1706418974942,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitesimport. Category INVITE is disabled"}
+{"level":20,"time":1706418974944,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command invitetracker. Category INVITE is disabled"}
+{"level":20,"time":1706418974946,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping Command resetinvites. Category INVITE is disabled"}
+{"level":20,"time":1706418974956,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1706418974960,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1706418974963,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1706418974965,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1706418974967,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1706418974969,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1706418974971,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1706418974972,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1706418974974,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1706418974978,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1706418974981,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1706418974985,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1706418974990,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1706418974993,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1706418975075,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1706418975077,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1706418975079,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1706418975179,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 93 commands"}
+{"level":30,"time":1706418975179,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 74 slash commands"}
+{"level":30,"time":1706418975180,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading contexts..."}
+{"level":30,"time":1706418975232,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1706418975232,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1706418975233,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loading events..."}
+{"level":30,"time":1706418975457,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1706418976442,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1706418976442,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Launching dashboard"}
+{"level":30,"time":1706418977536,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1706418978352,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1706418978458,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Dashboard is listening on port 20262"}
+{"level":30,"time":1706419003237,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Logged in as HeimdallCorp#0881! (1164402510451187793)"}
+{"level":20,"time":1706419003239,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1706419003243,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Music Manager initialized"}
+{"level":30,"time":1706419003243,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1706419003847,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1706419003937,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"Error","message":"Error: Unexpected server response: 302","stack":"Error: Error: Unexpected server response: 302\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:527:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at processTicksAndRejections (node:internal/process/task_queues:83:21)"},"msg":"Node \"Local Node\" encountered an error: Error: Unexpected server response: 302.: Error: Unexpected server response: 302"}
+{"level":30,"time":1706419003940,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1706419003940,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1706419005187,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Successfully registered interactions"}
+{"level":50,"time":1706511107802,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","err":{"type":"DiscordAPIError","message":"Unknown interaction","stack":"DiscordAPIError[10062]: Unknown interaction\n    at handleErrors (/home/container/node_modules/@discordjs/rest/dist/index.js:640:13)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async BurstHandler.runRequest (/home/container/node_modules/@discordjs/rest/dist/index.js:736:23)\n    at async REST.request (/home/container/node_modules/@discordjs/rest/dist/index.js:1387:22)\n    at async ButtonInteraction.deferReply (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:69:5)\n    at async Object.handleTicketClose (/home/container/src/handlers/ticket.js:290:3)","requestBody":{"json":{"type":5,"data":{"flags":64}}},"rawError":{"message":"Unknown interaction","code":10062},"code":10062,"status":404,"method":"POST","url":"https://discord.com/api/v10/interactions/1201419389778530396/aW50ZXJhY3Rpb246MTIwMTQxOTM4OTc3ODUzMDM5NjpvYjBkQ1ZaWDJjWkRnM1Qxb3hKTDc2dWFlMWs1MXRlOXFwS3VWT2JIYktscmlIZFBsc3ZjQjhvTWRlZU9XdFdsMHZhdkQ1bkJKMGh1Wm1TRXlGU2ZGdGR6VURhbXZIU2o4VElhUUdnWDlDNHhPM0lUT3NzdWt2WWRBeGEwTEtFUA/callback"},"msg":"Client Error: Unknown interaction"}
+{"level":30,"time":1706546424465,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Guild Joined: FlowHardware | Support Members: 14"}
+{"level":30,"time":1706546434993,"pid":29,"hostname":"c0776e54-381a-4791-b821-a44ff2225cb3","msg":"Guild Left: FlowHardware | Support Members: 13"}

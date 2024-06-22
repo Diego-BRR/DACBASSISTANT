@@ -1,0 +1,526 @@
+{"level":30,"time":1713290310334,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713290310335,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713290310335,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713290310372,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":20,"time":1713290310724,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713290310725,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713290310726,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713290310731,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713290310732,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713290310734,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713290310736,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713290310737,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713290310746,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713290310747,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713290310748,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713290310749,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713290310750,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713290310760,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713290310761,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713290310762,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713290310763,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713290310763,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713290310764,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713290310764,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713290310765,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713290310765,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713290310766,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713290310767,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713290310768,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713290310770,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713290310771,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713290310775,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713290310776,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713290310777,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713290310778,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713290310779,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713290310779,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713290310780,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713290310781,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713290310781,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713290310782,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713290310783,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713290310783,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713290310784,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713290310784,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713290310785,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713290310786,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713290310786,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713290310805,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713290310805,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713290310805,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713290310807,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713290310807,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713290310807,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713290310843,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713290311154,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713290311154,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713290311154,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713290311555,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713290312238,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713290312297,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713290313422,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713290313422,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713290313613,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713290316153,"pid":889,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}
+{"level":30,"time":1713290773957,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713290773959,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713290773959,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713290773997,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713290774089,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713290774423,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713290774425,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713290774426,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713290774431,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713290774432,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713290774433,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713290774435,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713290774436,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713290774448,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713290774449,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713290774450,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713290774452,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713290774453,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713290774463,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713290774464,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713290774465,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713290774465,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713290774484,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713290774486,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713290774486,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713290774487,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713290774487,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713290774489,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713290774489,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713290774490,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713290774492,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713290774493,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713290774498,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713290774499,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713290774500,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713290774501,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713290774502,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713290774503,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713290774503,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713290774504,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713290774505,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713290774505,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713290774506,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713290774506,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713290774506,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713290774507,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713290774508,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713290774508,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713290774509,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713290774554,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713290774554,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713290774555,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713290774556,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713290774556,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713290774556,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713290774605,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713290774904,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713290774905,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713290774905,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713290775216,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713290775807,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713290775900,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713290777154,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713290777155,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713290777275,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713290777718,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}
+{"level":50,"time":1713290864399,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","err":{"type":"ExpectedConstraintError","message":"Invalid URL","stack":"Error: Invalid URL\n    at Object.run (/home/container/node_modules/@sapphire/shapeshift/src/constraints/StringConstraints.ts:87:10)\n    at /home/container/node_modules/@sapphire/shapeshift/src/validators/BaseValidator.ts:103:2\n    at Array.reduce (<anonymous>)\n    at StringValidator.parse (/home/container/node_modules/@sapphire/shapeshift/src/validators/BaseValidator.ts:103:2)\n    at ButtonBuilder.setURL (/home/container/node_modules/@discordjs/builders/src/components/button/Button.ts:75:63)\n    at module.exports (/home/container/src/commands/information/shared/botstats.js:93:54)\n    at Object.interactionRun (/home/container/src/commands/information/slash/bot.js:61:24)\n    at Object.handleSlashCommand (/home/container/src/handlers/command.js:140:17)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:18:5)","constraint":"s.string.url","given":"node.heimdallhost.com","expected":"expected to match a URL"},"msg":"interactionRun: Invalid URL"}
+{"level":50,"time":1713290886869,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","err":{"type":"DiscordjsError","message":"The reply to this interaction has not been sent or deferred.","stack":"Error [InteractionNotReplied]: The reply to this interaction has not been sent or deferred.\n    at ChatInputCommandInteraction.followUp (/home/container/node_modules/discord.js/src/structures/interfaces/InteractionResponses.js:184:64)\n    at Object.handleSlashCommand (/home/container/src/handlers/command.js:142:25)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:18:5)","code":"InteractionNotReplied"},"msg":"Client Error: The reply to this interaction has not been sent or deferred."}
+{"level":30,"time":1713290927283,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713290927285,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713290927285,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713290927329,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713290927445,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713290927827,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713290927828,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713290927829,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713290927835,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713290927836,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713290927837,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713290927839,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713290927839,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713290927850,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713290927851,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713290927852,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713290927854,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713290927855,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713290927880,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713290927881,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713290927882,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713290927883,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713290927883,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713290927884,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713290927884,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713290927885,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713290927885,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713290927886,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713290927887,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713290927888,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713290927890,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713290927891,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713290927895,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713290927896,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713290927897,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713290927898,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713290927899,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713290927900,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713290927900,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713290927901,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713290927902,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713290927902,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713290927903,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713290927903,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713290927904,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713290927904,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713290927905,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713290927905,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713290927906,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713290927949,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713290927950,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713290927950,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713290927951,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713290927951,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713290927951,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713290928006,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713290928308,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713290928308,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713290928308,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713290928602,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713290929412,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713290929470,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713290930566,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713290930567,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713290930685,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713290931249,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}
+{"level":50,"time":1713291361095,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","err":{"type":"ExpectedConstraintError","message":"Invalid URL","stack":"Error: Invalid URL\n    at Object.run (/home/container/node_modules/@sapphire/shapeshift/src/constraints/StringConstraints.ts:87:10)\n    at /home/container/node_modules/@sapphire/shapeshift/src/validators/BaseValidator.ts:103:2\n    at Array.reduce (<anonymous>)\n    at StringValidator.parse (/home/container/node_modules/@sapphire/shapeshift/src/validators/BaseValidator.ts:103:2)\n    at ButtonBuilder.setURL (/home/container/node_modules/@discordjs/builders/src/components/button/Button.ts:75:63)\n    at module.exports (/home/container/src/commands/information/shared/botstats.js:93:54)\n    at Object.interactionRun (/home/container/src/commands/information/slash/info.js:113:18)\n    at Object.handleSlashCommand (/home/container/src/handlers/command.js:140:17)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:18:5)","constraint":"s.string.url","given":"node.heimdallhost.com","expected":"expected to match a URL"},"msg":"interactionRun: Invalid URL"}
+{"level":30,"time":1713291494774,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713291494777,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713291494778,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713291494848,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713291495019,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713291495503,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713291495504,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713291495505,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713291495512,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713291495513,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713291495515,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713291495517,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713291495518,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713291495531,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713291495532,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713291495533,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713291495535,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713291495536,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713291495547,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713291495548,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713291495550,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713291495550,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713291495551,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713291495552,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713291495553,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713291495553,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713291495554,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713291495555,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713291495580,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713291495581,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713291495584,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713291495586,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713291495591,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713291495593,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713291495594,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713291495595,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713291495596,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713291495598,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713291495599,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713291495599,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713291495601,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713291495601,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713291495602,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713291495603,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713291495603,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713291495604,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713291495605,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713291495606,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713291495607,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713291495673,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713291495673,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713291495673,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713291495675,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713291495675,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713291495675,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713291495726,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713291496046,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713291496046,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713291496046,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713291496385,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713291496959,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713291497031,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713291498420,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713291498420,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713291498551,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713291498960,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}
+{"level":50,"time":1713292012273,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","err":{"type":"ExpectedConstraintError","message":"Invalid URL","stack":"Error: Invalid URL\n    at Object.run (/home/container/node_modules/@sapphire/shapeshift/src/constraints/StringConstraints.ts:87:10)\n    at /home/container/node_modules/@sapphire/shapeshift/src/validators/BaseValidator.ts:103:2\n    at Array.reduce (<anonymous>)\n    at StringValidator.parse (/home/container/node_modules/@sapphire/shapeshift/src/validators/BaseValidator.ts:103:2)\n    at ButtonBuilder.setURL (/home/container/node_modules/@discordjs/builders/src/components/button/Button.ts:75:63)\n    at module.exports (/home/container/src/commands/information/shared/botstats.js:93:54)\n    at Object.interactionRun (/home/container/src/commands/information/slash/info.js:113:18)\n    at Object.handleSlashCommand (/home/container/src/handlers/command.js:140:17)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:18:5)","constraint":"s.string.url","given":"node.heimdallhost.com","expected":"expected to match a URL"},"msg":"interactionRun: Invalid URL"}
+{"level":30,"time":1713292719760,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713292719762,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713292719762,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713292719810,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713292719928,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713292720298,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713292720299,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713292720299,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713292720306,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713292720307,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713292720308,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713292720309,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713292720310,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713292720320,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713292720321,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713292720322,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713292720323,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713292720324,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713292720332,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713292720333,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713292720334,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713292720335,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713292720335,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713292720336,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713292720336,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713292720337,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713292720337,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713292720338,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713292720339,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713292720340,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713292720341,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713292720342,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713292720368,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713292720369,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713292720370,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713292720371,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713292720372,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713292720373,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713292720374,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713292720374,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713292720375,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713292720375,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713292720376,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713292720376,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713292720377,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713292720378,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713292720378,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713292720379,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713292720379,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713292720425,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713292720426,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713292720426,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713292720427,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713292720427,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713292720428,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713292720472,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713292720774,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713292720774,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713292720775,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713292721114,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713292721697,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713292721754,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713292723128,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713292723128,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713292723243,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713292723844,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}
+{"level":30,"time":1713294478081,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713294478082,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713294478082,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713294478121,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713294478217,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713294478543,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713294478544,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713294478545,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713294478550,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713294478551,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713294478553,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713294478554,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713294478555,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713294478566,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713294478567,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713294478568,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713294478570,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713294478571,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713294478599,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713294478600,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713294478601,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713294478601,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713294478602,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713294478603,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713294478603,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713294478604,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713294478604,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713294478605,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713294478606,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713294478607,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713294478609,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713294478611,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713294478615,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713294478617,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713294478618,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713294478619,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713294478620,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713294478621,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713294478622,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713294478622,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713294478623,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713294478623,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713294478624,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713294478625,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713294478625,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713294478626,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713294478626,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713294478627,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713294478627,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713294478678,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713294478678,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713294478679,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713294478680,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713294478680,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713294478680,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713294478732,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713294479027,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713294479027,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713294479027,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713294479339,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713294479973,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713294480036,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713294481389,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713294481390,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713294481509,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713294481982,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}
+{"level":50,"time":1713294900569,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","err":{"type":"PoolClearedOnNetworkError","message":"Connection to ac-9loqot0-shard-00-02.edphqgj.mongodb.net:27017 interrupted due to server monitor timeout","stack":"PoolClearedOnNetworkError: Connection to ac-9loqot0-shard-00-02.edphqgj.mongodb.net:27017 interrupted due to server monitor timeout\n    at ConnectionPool.interruptInUseConnections (/home/container/node_modules/mongodb/src/cmap/connection_pool.ts:485:28)\n    at /home/container/node_modules/mongodb/src/cmap/connection_pool.ts:470:35\n    at processTicksAndRejections (node:internal/process/task_queues:77:11)","address":"ac-9loqot0-shard-00-02.edphqgj.mongodb.net:27017"},"msg":"Unhandled exception: Connection to ac-9loqot0-shard-00-02.edphqgj.mongodb.net:27017 interrupted due to server monitor timeout"}
+{"level":30,"time":1713295181306,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713295181307,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713295181307,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713295181342,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713295181436,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713295181774,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713295181775,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713295181776,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713295181782,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713295181783,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713295181784,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713295181785,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713295181786,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713295181796,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713295181797,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713295181800,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713295181801,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713295181802,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713295181827,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713295181827,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713295181828,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713295181829,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713295181830,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713295181830,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713295181831,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713295181831,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713295181831,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713295181832,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713295181833,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713295181834,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713295181847,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713295181849,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713295181854,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713295181855,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713295181856,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713295181857,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713295181858,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713295181859,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713295181860,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713295181860,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713295181861,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713295181861,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713295181862,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713295181862,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713295181863,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713295181863,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713295181864,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713295181864,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713295181865,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713295181916,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713295181917,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713295181917,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713295181918,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713295181918,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713295181918,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713295181960,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713295186282,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713295186282,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713295186282,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713295186597,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713295204956,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Validation du fichier de configuration et des variables d'environnement"}
+{"level":40,"time":1713295204958,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"config.js: SUPPORT_SERVER n'est pas fourni"}
+{"level":40,"time":1713295204958,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"env: STRANGE_API_KEY est manquant. Les commandes d'image ne fonctionneront pas"}
+{"level":30,"time":1713295204995,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading commands..."}
+{"level":50,"time":1713295205098,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Failed to load /home/container/src/commands/DB/link.js Reason: Le nom de la commande doit être une chaîne minuscule."}
+{"level":20,"time":1713295205572,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1713295205573,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1713295205574,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1713295205580,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1713295205581,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1713295205582,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1713295205584,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1713295205585,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1713295205596,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1713295205597,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1713295205598,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1713295205599,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1713295205600,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1713295205628,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1713295205629,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1713295205630,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1713295205631,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1713295205632,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1713295205632,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1713295205633,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1713295205633,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1713295205634,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1713295205635,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1713295205636,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1713295205636,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1713295205638,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1713295205639,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1713295205644,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1713295205645,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1713295205646,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1713295205647,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1713295205648,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1713295205649,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1713295205649,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1713295205650,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1713295205651,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1713295205651,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1713295205652,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1713295205652,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1713295205653,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1713295205653,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1713295205654,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1713295205654,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1713295205655,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1713295205705,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 88 commands"}
+{"level":30,"time":1713295205706,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 69 slash commands"}
+{"level":30,"time":1713295205706,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading contexts..."}
+{"level":30,"time":1713295205707,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1713295205707,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1713295205708,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loading events..."}
+{"level":30,"time":1713295205753,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1713295205949,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1713295205949,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1713295205950,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Lancement du tableau de bord"}
+{"level":30,"time":1713295206330,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1713295207000,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1713295207062,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Dashboard is listening on port 3257"}
+{"level":30,"time":1713295208534,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Logged in as VersaLink(BETA)#0390! (1229810158645809253)"}
+{"level":30,"time":1713295208534,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1713295208631,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1713295209100,"pid":44,"hostname":"26d957ae-c7ab-4b65-8316-7b0c744c6531","msg":"Successfully registered interactions"}

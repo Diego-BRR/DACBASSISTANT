@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+	<%- include('../includes/head') %>
+	
+	<body class="hold-transition skin-blue sidebar-mini">
+
+		<div class="wrapper">
+
+			<!-- The header is the topbar -->
+			<%- include('../includes/header') %>
+
+			<!-- The sidebar includes the menu -->
+			<%- include('../includes/sidebar') %>
+
+			<!-- Content Wrapper. Contains page content -->
+			<div class="content-wrapper">
+
+				<!-- Content Header (Page header) -->
+				<section class="content-header">
+					<h3> Greeting </h3>
+					<ol class="breadcrumb">
+                        <li><a href="/"><i class="fa fa-home"></i>Selector</a></li>
+                        <li><a href="<%=`/manage/${guild.id}/`%>"><%=guild.name%></a></li>
+                        <li class="active">Greeting</li>
+					</ol>
+				</section>
+
+                <!-- Content -->
+				<section class="content">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!-- WELCOME CONFIGURATION -->
+							<div class="box box-warning">
+    							<div class="box-header with-border">
+        <h3 class="box-title">Récompense quotidienne</h3>
+    </div>
+    <form role="form" action="/manage/:serverID/daily" method="POST">
+        <div class="box-body">
+            <div class="form-group">
+                <label for="dailyAmount">Montant de la récompense quotidienne</label>
+                <input type="number" id="dailyAmount" name="amount" class="form-control" placeholder="Montant en ${ECONOMY.CURRENCY}">
+            </div>
+        </div>
+        <div class="box-footer">
+            <button type="submit" class="btn btn-primary">Mettre à jour</button>
+        </div>
+    </form>
+</div>
+
+				</section>
+				
+			</div>
+            <!-- /.content-wrapper -->
+
+            <%- include('../includes/footer') %>
+		</div>
+		<!-- ./wrapper -->
+	</body>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/663258ac1ec1082f04e9dd44/1hsqakoc9';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</html>
